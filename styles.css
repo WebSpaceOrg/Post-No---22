@@ -22,15 +22,6 @@ body {
 /* ======================== */
 
 
-.container{
-	border: 2px white solid;
-	width: 52%;
-	background-color: #1f283f;
-	padding: 19px;
-	height: 60px;
-	border-radius: 15px;
-}
-
 						.list {
 							list-style: none;
 							display: flex;
